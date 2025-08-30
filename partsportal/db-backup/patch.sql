@@ -1,0 +1,1 @@
+ALTER TABLE `parts_member_packege` ADD `order_change_his` TINYINT( 1 ) NOT NULL DEFAULT '0' COMMENT '0 = both system & admin didn''t change; 1 = admin has changed ; 2 = system has changed status';

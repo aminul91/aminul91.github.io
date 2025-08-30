@@ -1,0 +1,171 @@
+.htm
+{
+background: #ffffff;
+
+}
+.mainbody
+{
+
+float:left;
+width:950px;
+//background-color: #CCCCCC;
+margin-top:10px;
+
+}
+ #sliding
+ {
+     position:relative;
+    z-index:-10;
+   float:left;
+   width:400px;
+//background-color: #CCCCCC;
+margin-top:10px;
+     
+     
+ }
+ 
+ 
+ 
+.flash{
+height: 300px;
+width: 400px;
+
+margin-left: 100px;
+
+float: left;
+background-color: #000;
+    
+}
+.flash2
+{
+height:200px;
+width:400px;  
+float:left;
+background-color: #480091;
+margin-left: 100px;
+margin-bottom: 200px;
+    
+}
+
+#cloth,#computer,#mobile,#ornaments,#clock,#shoe,#Electronics-item,#furnitures,#computer,#others,#combind-shop,#Mobile,#Laptop-corner,#BAG,#Food
+{
+background-color:#FFE1A7;
+ width:200px; 
+ height:20px;
+  float:right;
+  text-align:center;
+  border:groove;
+  border-color:#CCCCCC;
+  border-radius:15%;
+ }
+
+#panjabi,#shirt,#shari,#salwar-kamiz,#T-SHIRT,#pant,#skirt,#desktop,#laptop,#tablet,#other,#Menz-shoe,#ladies-shoe,#children-shoe,#mobile-phone,#TV,#tablet-pc,#Refrizaretor,#AC,#sound-box,#mouse,#key-board,#micro-oven,#other-product,#Dinning-table,#BED,#Almari,#Table,#show-case,#sofa,#Chair,#shoe-stand,#other-furni,#Gold,#Silver,#Diamond,#other-types,#Laptop,#Desktop,#Tab,#Daily-accessories,#Gift-item,#Toys
+{
+    background-color:#FFE1A7;
+  
+ width:95px; 
+  float:right;
+  text-align:center;
+  border:groove;
+  border-color:#CCCCCC;
+  border-radius:20%;
+ }
+ 
+#clothmenudetail, #shoemenudetail,#electronicmenudetail,#furnituremenudetail,#mobilemenudetail,#ornamentsmenudetail,#computermenudetail,#othermenudetail,#clockmenudetail,#bagmenudetail,#foodmenudetail,#combindmenudetail,#othermenudetail,#laptopmenudetail
+{
+//background-color:#FFE1A7; 
+float:right;
+width: 100px; 
+ display:none;
+ 
+ margin-left:497px;
+ border-radius:10%;
+ display:none;
+position: absolute;
+}
+
+
+#brandpanjabi,#brandshirt,#brandshari,#brandsalwar,#brandpant,#brandskirt,#brandtshirt,#brandcother,#brandshoe1,#brandshoe2,#brandshoe3,#brandelec1,#brandelec2,#brandelec3,#brandelec4,#brandelec5,#brandelec6,#brandelec7,#brandelec8,#brandelec9,#brandelec10,#brandelec11,#brandelec12,#brandfur1,#brandfur2,#brandfur3,#brandfur4,#brandfur5,#brandfur6,#brandfur7,#brandfur8,#brandfur9,#brandorn1,#brandorn2,#brandorn3,#brandorn4
+{
+
+float:right;
+width: 100px; 
+
+ display:none;
+
+ margin-left:397px;
+ border-radius:5%;
+
+position: absolute; 
+    
+    
+}
+#brand 
+{
+    
+     background-color:#FFE1A7;
+  
+ width:95px; 
+
+  float:right;
+  text-align:center;
+  border:groove;
+  border-color:#CCCCCC;
+  border-radius:20%;
+}
+ 
+.mainmenu
+{
+
+  width:200px; 
+  
+  float:right;
+  margin-left:600px;
+ 
+   margin-top:10px;
+  border-radius:5%;
+ // background-color:#002166;
+  padding:2px;
+  position: absolute;
+}
+.marketinfo
+{
+    height : 25px;
+    width : 115px;
+    
+    
+    margin-right: 1px;
+    color : white;
+    padding : 12px;
+    text-align: center;
+    float : left;
+}
+.form
+{
+    
+    alignment-adjust: central;
+    height: 700px;
+    
+}
+#guide
+{
+    background-color: white;
+    float:left;
+     margin-top: 60px;
+       
+    border-radius: 30px;
+  
+}
+#ex1,#ex2,#ex3,#ex4,#ex5,#ex6
+{
+background-color: #000;
+width:205px;
+height:0px;
+
+z-index: 10;
+position: absolute;
+margin-top: 200px;
+border-radius: 15px;
+display: none;
+    
+}

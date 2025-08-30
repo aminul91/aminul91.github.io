@@ -1,0 +1,48 @@
+.clear{ clear: both;}
+.v_gap{ height:20px;clear: both;}
+.vs_gap{ height:10px;clear: both;}
+.save_box{ width:30%;padding:0px;margin:0px; }
+#package_listing_box{ display:none; }
+
+.big_font {font-size: 16px;font-weight: 800; font-family: "Lucida Bright", Georgia, serif;} 
+.cmn_tbl span{ color: #666666; }
+.cmn_tbl a{ color: #666666;text-decoration:none;font-family: Arial;font-size: 11px; }
+.cmn_tbl a:link{ color: #666666;text-decoration:none;font-family: Arial;font-size: 11px; }
+.cmn_tbl a:hover{ color: #666666;text-decoration:none;font-family: Arial;font-size: 11px; }
+.cmn_tbl a:visited{ color: #666666;text-decoration:none;font-family: Arial;font-size: 11px; }
+.cmn_tbl a:active{ color: #666666;text-decoration:none;font-family: Arial;font-size: 11px; }
+ select{  border: 1px solid #E3E3E3; }
+.navigation_box{width:35%;height:40px;margin:0 auto;}   
+#listing_type{padding:8px;}
+.bRow{ width:100%;float:left;margin:0px 0px 10px 0px;font-size:12px;clear:both; }
+.blftPart{ width:20%;float:left;margin:0px 0px 0px 0px; font-family: "Lucida Bright", Georgia, serif; }
+.brightPart{ width:80%;float:left;margin:0px 0px 0px 0px; }
+.bRow input[type="text"]{ background-color: #FAFAFA; border: 1px solid #CCCCCC; color: #404040; font-size: 12px;height: 23px;padding-left: 5px;width: 80%;  }
+.bRow input[type="password"]{ background-color: #FAFAFA; border: 1px solid #CCCCCC; color: #404040; font-size: 12px;height: 23px;padding-left: 5px;width: 80%;  }
+.bRow #message{background-color: #FAFAFA; border: 1px solid #CCCCCC; color: #404040;font-size: 12px;height: 100px;padding-left: 5px;width: 80%; resize:none;}    
+.bRow #trading_msg{ background-color: #FAFAFA;border: 1px solid #CCCCCC;color: #404040;font-size: 12px;height: 100px;padding-left: 5px;width: 80%; resize:none;}
+#country_state_visibility{ display:none; }
+.bRow select{ margin-top:0px;}
+.contentBox{ width:97%;margin:0 auto; }
+.stdtable tbody tr td{ font-size:12px; }
+.titleBox{ font-size:18px;font-weight: 400; font-family: "Lucida Bright", Georgia, serif;color:#000000;}
+.titleBox a{ font-size:12px;text-decoration:none;color:blue; }
+.titleBox a:link{ font-size:12px;text-decoration:none;color:blue; }
+.titleBox a:hover{ font-size:12px;text-decoration:none;color:blue; }
+.titleBox a:visited{ font-size:12px;text-decoration:none;color:blue; }
+th{ font-family: "Lucida Bright", Georgia, serif !important;font-weight: 400 !important; }
+.main_tab_2{ width:90%;margin:0 auto;border: 1px solid #E3E3E3;padding:20px; }
+.main_tab_2{ width:96%;margin:0 auto;border: 1px solid #E3E3E3;padding:20px; }
+
+.upload_image1 { border: 1px solid #CCCCCC;float: left;height: 100px;margin-left: 8px;margin-top: 22px;width: 90px;}
+
+
+.bRow textarea{ background-color: #FAFAFA; border: 1px solid #CCCCCC; color: #404040; font-size: 12px;height: 70px;padding-left: 5px;width: 80%;resize:none; }
+.welcomeTTL{ font-size:24px;color:#000000 !important; }
+#templateTopHTML { background-color: #FAFAFA;  border: 1px solid #CCCCCC; color: #404040;font-size: 12px; height:130px;padding: 5px;resize: none;width:510px;}
+#templateBottomHTML { background-color: #FAFAFA;  border: 1px solid #CCCCCC; color: #404040;font-size: 12px; height:130px;padding: 5px;resize: none;width:510px;}
+.tTBL{ width:98%;margin:5px auto;border:0px; }
+.td1st{ width:25%;vertical-align:top; }
+.td2nd{ width:60%;vertical-align:top; }
+.td3rd{ width:15%;text-align:right; }
+.nobgcolor{ background:none !important; }

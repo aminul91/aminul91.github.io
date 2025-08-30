@@ -1,0 +1,7 @@
+1. Menu Bar - FILL light smokey Grey colour.
+
+ 2. CHANGE TEXT FROM Advance Search TO "Advanced Parts Search" 
+
+3. Make divider lines in each of the search sections Wider Black 
+
+4. Use a Yellow Box (Caterpillar Yellow) to house each of the Headings eg: Search by Part Number, Advanced Parts Search, Dismantling etc

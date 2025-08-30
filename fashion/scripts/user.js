@@ -1,0 +1,611 @@
+$(document).ready(function(){
+$("#cloth").hover(function(){
+    
+	$("#clothmenudetail").show();
+	$("#clothmenudetail").hover(function(){
+    $("#clothmenudetail").show();
+},function(){
+    $("#clothmenudetail").hide();
+});
+},function(){
+    $("#clothmenudetail").hide();
+});
+$("#shoe").hover(function(){
+    
+	$("#shoemenudetail").show();
+	$("#shoemenudetail").hover(function(){
+    $("#shoemenudetail").show();
+},function(){
+    $("#shoemenudetail").hide();
+});
+},function(){
+    $("#shoemenudetail").hide();
+});
+$("#Electronics-item").hover(function(){
+    
+	$("#electronicmenudetail").show();
+	$("#electronicmenudetail").hover(function(){
+    $("#electronicmenudetail").show();
+},function(){
+    $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#electronicmenudetail").hide();
+});
+$("#furnitures").hover(function(){
+    
+	$("#furnituremenudetail").show();
+	$("#furnituremenudetail").hover(function(){
+    $("#furnituremenudetail").show();
+},function(){
+    $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#furnituremenudetail").hide();
+});
+$("#ornaments").hover(function(){
+    
+	$("#ornamentsmenudetail").show();
+	$("#ornamentsmenudetail").hover(function(){
+    $("#ornamentsmenudetail").show();
+},function(){
+    $("#ornamentsmenudetail").hide();
+});
+},function(){
+    $("#ornamentsmenudetail").hide();
+});
+$("#clock").hover(function(){
+    $("#clockmenudetail").show();
+	$("#clockmenudetail").hover(function(){
+    $("#clockmenudetail").show();
+},function(){
+    $("#clockmenudetail").hide();
+});
+},function(){
+    $("#clockmenudetail").hide();
+});
+$("#BAG").hover(function(){
+    $("#bagmenudetail").show();
+	$("#bagmenudetail").hover(function(){
+    $("#bagmenudetail").show();
+},function(){
+    $("#bagmenudetail").hide();
+});
+},function(){
+    $("#bagmenudetail").hide();
+});
+$("#Food").hover(function(){
+    $("#foodmenudetail").show();
+	$("#foodmenudetail").hover(function(){
+    $("#foodmenudetail").show();
+},function(){
+    $("#foodmenudetail").hide();
+});
+},function(){
+    $("#foodmenudetail").hide();
+});
+$("#combind-shop").hover(function(){
+    $("#combindmenudetail").show();
+	$("#combindmenudetail").hover(function(){
+    $("#combindmenudetail").show();
+},function(){
+    $("#combindmenudetail").hide();
+});
+},function(){
+    $("#combindmenudetail").hide();
+});
+$("#Mobile").hover(function(){
+    $("#mobilemenudetail").show();
+	$("#mobilemenudetail").hover(function(){
+    $("#mobilemenudetail").show();
+},function(){
+    $("#mobilemenudetail").hide();
+});
+},function(){
+    $("#mobilemenudetail").hide();
+});
+$("#others").hover(function(){
+    $("#othermenudetail").show();
+	$("#othermenudetail").hover(function(){
+    $("#othermenudetail").show();
+},function(){
+    $("#othermenudetail").hide();
+});
+},function(){
+    $("#othermenudetail").hide();
+});
+
+
+$("#others").hover(function(){
+    
+	$("#othermenudetail").show();
+	$("#othermenudetail").hover(function(){
+    $("#othermenudetail").show();
+},function(){
+    $("#othermenudetail").hide();
+});
+},function(){
+    $("#othermenudetail").hide();
+});
+$("#Laptop-corner").hover(function(){
+    $("#laptopmenudetail").show();
+	$("#laptopmenudetail").hover(function(){
+    $("#laptopmenudetail").show();
+},function(){
+    $("#laptopmenudetail").hide();
+});
+},function(){
+    $("#laptopmenudetail").hide();
+});
+$("#panjabi").hover(function(){
+    
+	$("#brandpanjabi").show();
+	$("#brandpanjabi").hover(function(){
+    $("#brandpanjabi").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandpanjabi").hide();
+     $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandpanjabi").hide();
+});
+$("#shirt").hover(function(){
+    $("#brandshirt").show();
+	$("#brandshirt").hover(function(){
+    $("#brandshirt").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandshirt").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandshirt").hide();
+});
+
+$("#shari").hover(function(){
+    $("#brandshari").show();
+	$("#brandshari").hover(function(){
+    $("#brandshari").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandshari").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandshari").hide();
+});
+
+$("#salwar-kamiz").hover(function(){
+    $("#brandsalwar").show();
+	$("#brandsalwar").hover(function(){
+    $("#brandsalwar").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandsalwar").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandsalwar").hide();
+});
+
+$("#pant").hover(function(){
+    $("#brandpant").show();
+	$("#brandpant").hover(function(){
+    $("#brandpant").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandpant").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandpant").hide();
+});
+
+$("#skirt").hover(function(){
+    $("#brandskirt").show();
+	$("#brandskirt").hover(function(){
+    $("#brandskirt").show();
+    $("#clothmenudetail").show();
+},function(){
+    $("#brandskirt").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandskirt").hide();
+});
+
+$("#T-SHIRT").hover(function(){
+    $("#brandtshirt").show();
+	$("#brandtshirt").hover(function(){
+    $("#brandtshirt").show();
+     $("#clothmenudetail").show();
+},function(){
+    $("#brandtshirt").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandtshirt").hide();
+});
+
+$("#other").hover(function(){
+    $("#brandcother").show();
+	$("#brandcother").hover(function(){
+    $("#brandcother").show();
+     $("#clothmenudetail").show();
+},function(){
+    $("#brandcother").hide();
+      $("#clothmenudetail").hide();
+});
+},function(){
+    $("#brandcother").hide();
+});
+
+$("#Menz-shoe").hover(function(){
+    $("#brandshoe1").show();
+	$("#brandshoe1").hover(function(){
+    $("#brandshoe1").show();
+     $("#shoemenudetail").show();
+},function(){
+    $("#brandshoe1").hide();
+      $("#shoemenudetail").hide();
+});
+},function(){
+    $("#brandshoe1").hide();
+});
+
+$("#ladies-shoe").hover(function(){
+    $("#brandshoe2").show();
+	$("#brandshoe2").hover(function(){
+    $("#brandshoe2").show();
+     $("#shoemenudetail").show();
+},function(){
+    $("#brandshoe2").hide();
+      $("#shoemenudetail").hide();
+});
+},function(){
+    $("#brandshoe2").hide();
+});
+
+$("#children-shoe").hover(function(){
+    $("#brandshoe3").show();
+	$("#brandshoe3").hover(function(){
+    $("#brandshoe3").show();
+     $("#shoemenudetail").show();
+    
+},function(){
+    $("#brandshoe3").hide();
+      $("#shoemenudetail").hide();
+});
+},function(){
+    $("#brandshoe3").hide();
+});
+
+
+$("#mobile-phone").hover(function(){
+    $("#brandelec1").show();
+	$("#brandelec1").hover(function(){
+    $("#brandelec1").show();
+     $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec1").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec1").hide();
+});
+
+$("#TV").hover(function(){
+    $("#brandelec2").show();
+	$("#brandelec2").hover(function(){
+    $("#brandelec2").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec2").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec2").hide();
+});
+
+$("#laptop").hover(function(){
+    $("#brandelec3").show();
+	$("#brandelec3").hover(function(){
+    $("#brandelec3").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec3").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec3").hide();
+});
+
+$("#tablet-pc").hover(function(){
+    $("#brandelec4").show();
+	$("#brandelec4").hover(function(){
+    $("#brandelec4").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec4").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec4").hide();
+});
+
+$("#Refrizaretor").hover(function(){
+    $("#brandelec5").show();
+	$("#brandelec5").hover(function(){
+    $("#brandelec5").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec5").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec5").hide();
+});
+
+$("#sound-box").hover(function(){
+    $("#brandelec6").show();
+	$("#brandelec6").hover(function(){
+    $("#brandelec6").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec6").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec6").hide();
+});
+
+$("#sound-box").hover(function(){
+    $("#brandelec6").show();
+	$("#brandelec6").hover(function(){
+    $("#brandelec6").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec6").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec6").hide();
+});
+
+$("#mouse").hover(function(){
+    $("#brandelec7").show();
+	$("#brandelec7").hover(function(){
+    $("#brandelec7").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec7").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec7").hide();
+});
+
+$("#key-board").hover(function(){
+    $("#brandelec8").show();
+	$("#brandelec8").hover(function(){
+    $("#brandelec8").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec8").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec8").hide();
+});
+
+$("#micro-oven").hover(function(){
+    $("#brandelec9").show();
+	$("#brandelec9").hover(function(){
+    $("#brandelec9").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec9").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec9").hide();
+});
+
+$("#AC").hover(function(){
+    $("#brandelec10").show();
+	$("#brandelec10").hover(function(){
+    $("#brandelec10").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec10").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec10").hide();
+});
+
+$("#other-product").hover(function(){
+    $("#brandelec11").show();
+	$("#brandelec11").hover(function(){
+    $("#brandelec11").show();
+    $("#electronicmenudetail").show();
+},function(){
+    $("#brandelec11").hide();
+      $("#electronicmenudetail").hide();
+});
+},function(){
+    $("#brandelec11").hide();
+});
+
+$("#Dinning-table").hover(function(){
+    $("#brandfur1").show();
+	$("#brandfur1").hover(function(){
+    $("#brandfur1").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur1").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur1").hide();
+});
+
+$("#BED").hover(function(){
+    $("#brandfur2").show();
+	$("#brandfur2").hover(function(){
+    $("#brandfur2").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur2").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur2").hide();
+});
+
+$("#Almari").hover(function(){
+    $("#brandfur3").show();
+	$("#brandfur3").hover(function(){
+    $("#brandfur3").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur3").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur3").hide();
+});
+
+$("#Table").hover(function(){
+    $("#brandfur4").show();
+	$("#brandfur4").hover(function(){
+    $("#brandfur4").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur4").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur4").hide();
+});
+
+$("#show-case").hover(function(){
+    $("#brandfur5").show();
+	$("#brandfur5").hover(function(){
+    $("#brandfur5").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur5").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur5").hide();
+});
+
+$("#sofa").hover(function(){
+    $("#brandfur6").show();
+	$("#brandfur6").hover(function(){
+    $("#brandfur6").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur6").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur6").hide();
+});
+
+$("#Chair").hover(function(){
+    $("#brandfur7").show();
+	$("#brandfur7").hover(function(){
+    $("#brandfur7").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur7").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur7").hide();
+});
+
+$("#shoe-stand").hover(function(){
+    $("#brandfur8").show();
+	$("#brandfur8").hover(function(){
+    $("#brandfur8").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur8").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur8").hide();
+});
+
+$("#other-furni").hover(function(){
+    $("#brandfur9").show();
+	$("#brandfur9").hover(function(){
+    $("#brandfur9").show();
+    $("#furnituremenudetail").show();
+},function(){
+    $("#brandfur9").hide();
+      $("#furnituremenudetail").hide();
+});
+},function(){
+    $("#brandfur9").hide();
+});
+
+$("#Gold").hover(function(){
+    $("#brandorn1").show();
+	$("#brandorn1").hover(function(){
+    $("#brandorn1").show();
+    $("#ornamentsmenudetail").show();
+},function(){
+    $("#brandorn1").hide();
+      $("#ornamentsmenudetail").hide();
+});
+},function(){
+    $("#brandorn1").hide();
+});
+
+$("#Silver").hover(function(){
+    $("#brandorn2").show();
+	$("#brandorn2").hover(function(){
+    $("#brandorn2").show();
+    $("#ornamentsmenudetail").show();
+},function(){
+    $("#brandorn2").hide();
+      $("#ornamentsmenudetail").hide();
+});
+},function(){
+    $("#brandorn2").hide();
+});
+
+$("#Diamond").hover(function(){
+    $("#brandorn3").show();
+	$("#brandorn3").hover(function(){
+    $("#brandorn3").show();
+    $("#ornamentsmenudetail").show();
+},function(){
+    $("#brandorn3").hide();
+      $("#ornamentsmenudetail").hide();
+});
+},function(){
+    $("#brandorn3").hide();
+});
+
+$("#other-types").hover(function(){
+    $("#brandorn4").show();
+	$("#brandorn4").hover(function(){
+    $("#brandorn4").show();
+    $("#ornamentsmenudetail").show();
+},function(){
+    $("#brandorn4").hide();
+      $("#ornamentsmenudetail").hide();
+});
+},function(){
+    $("#brandorn4").hide();
+});
+
+ });
+

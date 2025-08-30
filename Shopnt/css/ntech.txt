@@ -1,0 +1,28 @@
+  <div class="col-sm-2">
+                        <div class="btn-group" style="margin-top:4px;margin-left: -17px; height:60px; "> <a class="btn btn-default dropdown-toggle btn-select2" data-toggle="dropdown" href="#">Select a Continent <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="#">Europe</a></li>
+                <li><a href="#">Australia</a></li>
+                <li><a href="#">South America</a></li>
+               
+                <li><a href="#">North America</a>
+                </li><li><a href="#">Asia</a>
+                </li><li><a href="#">Africa</a>
+                </li>
+            </ul>
+        </div>
+                    
+                </div>
+                        
+                         <div class="col-sm-8">
+                             <form id="search" action="index">
+                                 
+                                 <input type="text" style="height:50px;;"name="email" id="email" placeholder="City or Region">
+                                &nbsp &nbsp
+                                 <div class="btn-group">
+                                     <button type="button"  style="width: 150px" id="btnSearch" class="btn btn-primary">Search</button>
+        </div>
+                             </form>
+                        
+                    
+                </div>

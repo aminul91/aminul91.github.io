@@ -1,0 +1,43 @@
+.footer
+{                                          
+
+   margin-top: 50px;
+    background-image: url(../images/footer.jpg);
+    height: 300px;
+    width: 850px;
+    float: left;
+   
+   
+
+    
+}
+
+.fb
+{
+  //  background-color: #30c4c8;
+ height: 30px;
+    width: 180px;
+    margin-left: 600px;
+
+
+}
+.twt
+{
+   // background-color: #0134c5;
+ height: 30px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: 40px;
+
+
+}
+.gplus
+{
+   //background-color: #8F5B00;
+ height: 30px;
+    width: 170px;
+    margin-left: 600px;
+    margin-top: 40px;
+
+
+}
